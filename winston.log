@@ -1,0 +1,6 @@
+{"level":"info","message":"log() call with level == info, a message and nothing else","timestamp":"2016-08-22T13:01:25.900Z"}
+{"level":"info","message":"info() call with a mesage that contains a token for substitution --> 123","timestamp":"2016-08-22T13:01:25.902Z"}
+{"level":"info","message":"info() call with a message and nothing else","timestamp":"2016-08-22T13:01:25.902Z"}
+{"timestamp":"2016-08-22T13:01:25.902Z","pid":6032,"level":"info","message":"info() call with a json parameter containing timestamp and pid"}
+{"favColor":"green","level":"info","message":"info() call with a json parameter containing favColor","timestamp":"2016-08-22T13:01:25.902Z"}
+{"level":"error","message":"error() called after setting level to error. Should be logged.","timestamp":"2016-08-22T13:01:25.904Z"}
